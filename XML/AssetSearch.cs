@@ -24,7 +24,7 @@ namespace XML
 
             var sResult = Serializer.Serialize<SearchModel>(search);
 
-
+            var j = 1;
             // var model = new SearchModelV2(assetName, searchScope);
             //var xmlNode = new XElement("Search",
             //                     new XAttribute("SearchScope", model.SearchScope),
