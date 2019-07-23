@@ -25,7 +25,7 @@ namespace XML
             var sResult = Serializer.Serialize<SearchModel>(search);
 
 
-            var model = new SearchModelV2(assetName, searchScope);
+            // var model = new SearchModelV2(assetName, searchScope);
             var xmlNode = new XElement("Search",
                                  new XAttribute("SearchScope", model.SearchScope),
                                  new XAttribute("xmls", "urn:OPUSSearch"),
