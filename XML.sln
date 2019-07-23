@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML", "XML\XML.csproj", "{D082A3B3-9C5C-420B-97DA-70B3865FCB96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLTest", "XMLTest\XMLTest.csproj", "{96E8987C-1034-4297-938B-091BE35919FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D082A3B3-9C5C-420B-97DA-70B3865FCB96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D082A3B3-9C5C-420B-97DA-70B3865FCB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D082A3B3-9C5C-420B-97DA-70B3865FCB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D082A3B3-9C5C-420B-97DA-70B3865FCB96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E8987C-1034-4297-938B-091BE35919FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E8987C-1034-4297-938B-091BE35919FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E8987C-1034-4297-938B-091BE35919FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E8987C-1034-4297-938B-091BE35919FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2DBF87F-1C56-4D69-B225-8AE34284F4B2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\User1\source\repos\XML\XML\bin\Debug\XML.dll
+C:\Users\User1\source\repos\XML\XML\bin\Debug\XML.pdb
+C:\Users\User1\source\repos\XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+C:\Users\User1\source\repos\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\User1\source\repos\XML\XML\obj\Debug\XML.dll
+C:\Users\User1\source\repos\XML\XML\obj\Debug\XML.pdb
