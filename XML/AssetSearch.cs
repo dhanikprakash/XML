@@ -25,14 +25,14 @@ namespace XML
             var sResult = Serializer.Serialize<SearchModel>(search);
 
 
-            var model = new SearchModelV2(assetName, searchScope);
-            var xmlNode = new XElement("Search",
-                                 new XAttribute("SearchScope", model.SearchScope),
-                                 new XAttribute("xmls", "urn:OPUSSearch"),
-                                 new XElement("SearchBlock",
-                                 new XElement("Name",
-                                 new XAttribute("Value", model.AssetName),
-                                 new XAttribute("Operater", model.Operation)))).ToString();
+            // var model = new SearchModelV2(assetName, searchScope);
+            //var xmlNode = new XElement("Search",
+            //                     new XAttribute("SearchScope", model.SearchScope),
+            //                     new XAttribute("xmls", "urn:OPUSSearch"),
+            //                     new XElement("SearchBlock",
+            //                     new XElement("Name",
+            //                     new XAttribute("Value", model.AssetName),
+            //                     new XAttribute("Operater", model.Operation)))).ToString();
 
 
             return sResult;
