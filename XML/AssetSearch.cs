@@ -12,6 +12,7 @@ namespace XML
 
         public string SearchAsset(string assetName, string searchScope)
         {
+            //Xml-improvements #1
             var search = new SearchModel();
             var searchBlock = new SearchBlock();
             var searchParams = new SearchParams();
