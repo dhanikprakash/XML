@@ -14,6 +14,9 @@ namespace XML
         {
             //Xml-improvements #1
             //Xml-improvements #2
+            //Xml-improvements #3
+            //Xml-improvements #4
+            //Xml-improvements #5
             var search = new SearchModel();
             var searchBlock = new SearchBlock();
             var searchParams = new SearchParams();
